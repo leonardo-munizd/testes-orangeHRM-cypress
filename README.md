@@ -1,0 +1,1 @@
+# I developed an end-to-end test automation project using Cypress to ensure the quality and reliability of web applications.
